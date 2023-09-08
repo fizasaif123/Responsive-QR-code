@@ -1,2 +1,2 @@
 # Responsive-QR-code
-This is a challnege given by frontend mentor
+This is a challenge given by frontend mentor
