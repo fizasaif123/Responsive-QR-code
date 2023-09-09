@@ -1,3 +1,5 @@
+![image](https://github.com/fizasaif123/Responsive-QR-code/assets/62798377/64a87a77-13a2-449a-8921-8624526307ca)
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
